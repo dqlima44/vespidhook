@@ -14,7 +14,7 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@4.3.2
       with:
-        server: 129.148.38.125
+        server: 152.67.62.56
         port: 39000
         username: ftp_sibbonsucesso_com_br
         password: Adv51098**
